@@ -5,7 +5,7 @@
 I'm a computer science student looking foward to solve hard code problems and accomplishing goals in my daily life. What i have is not a mindset, it is a life style of a cracker. Cybersecurity is my favourite part of technology. All work i do is planned from bottom, a little of try-error, implementation and solved requirements.
 
 <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1](https://app.hackthebox.com/profile/2333211)">
+      <a href="https://app.hackthebox.com/profile/2333211">
          <img alt="Hack The Box" src="https://custom-icon-badges.demolab.com/badge/-Hack%20The%20Box-black?style=for-the-badge&logo=package&logoColor=green"/></a>
    </p>
 <!--
