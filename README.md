@@ -1,5 +1,13 @@
-## ▬▬ι═══════ﺤ Rokko ▬▬ι═══════ﺤ
+# 🌑 Rokko (𝐵𝑜𝑟𝑛 𝑡𝑜 𝑑𝑖𝑒) ೀ
 
+**`Vulnerability Searcher - Outside of the box thinker`**
+
+I'm a computer science student looking foward to solve hard code problems and accomplishing goals in my daily life. What i have is not a mindset, it is a life style of a cracker. Cybersecurity is my favourite part of technology. All work i do is planned from bottom, a little of try-error, implementation and solved requirements.
+
+<p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="Hack The Box" src="https://custom-icon-badges.demolab.com/badge/-Hack%20The%20Box-black?style=for-the-badge&logo=package&logoColor=green"/></a>
+   </p>
 <!--
 **rokko3/rokko3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
